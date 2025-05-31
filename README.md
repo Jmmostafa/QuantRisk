@@ -1,4 +1,4 @@
-# Quantitative Risk Management Portfolio
+# Quantitative Risk Management
 
 ![Quantitative Risk](https://img.shields.io/badge/Field-Quantitative_Risk_Management-blue)
 ![Python](https://img.shields.io/badge/Language-Python-green)
@@ -26,5 +26,5 @@ A collection of **Python implementations** for core quantitative risk management
 
 1. **Clone the repo**:
    ```bash
-   git clone https://github.com/yourusername/quant-risk-mgmt.git
+   git clone https://github.com/Jmmostafa/quant-risk-mgmt.git
    cd quant-risk-mgmt
