@@ -5,7 +5,7 @@
 ![Jupyter](https://img.shields.io/badge/Notebooks-Jupyter-orange)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
-A collection of **Python implementations** for core quantitative risk management techniques, aligned with industry practices.
+A collection (yet to finish) of **Python implementations** for core quantitative risk management techniques, aligned with industry practices.
 
 ---
 
